@@ -14,7 +14,7 @@
                 "architecture": "esp32",
                 "version": "2.0.14_sensebox-dev",
                 "category": "ESP32",
-                "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.14/esp32-2.0.14.zip",
+                "url": "https://github.com/mariopesch/sensebox-esp32-dev/releases/download/2.0.14_sensebox-dev/esp32-2.0.14_sensebox-dev.zip",
                 "archiveFileName": "esp32-2.0.14_sensebox-dev.zip",
                 "checksum": "SHA-256:e9eb86868b6e1f573be23e7a069dd7af034bee019cbc84979f8b5a1514241721",
                 "size": "252154527",
