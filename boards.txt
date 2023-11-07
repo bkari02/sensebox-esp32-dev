@@ -27822,10 +27822,10 @@ sensebox_mcu_esp32s2.menu.CDCOnBoot.cdc.build.cdc_on_boot=1
 sensebox_mcu_esp32s2.menu.CDCOnBoot.default=Disabled
 sensebox_mcu_esp32s2.menu.CDCOnBoot.default.build.cdc_on_boot=0
 
-sensebox_mcu_esp32s2.menu.MSCOnBoot.default=Disabled
-sensebox_mcu_esp32s2.menu.MSCOnBoot.default.build.msc_on_boot=0
 sensebox_mcu_esp32s2.menu.MSCOnBoot.msc=Enabled
 sensebox_mcu_esp32s2.menu.MSCOnBoot.msc.build.msc_on_boot=1
+sensebox_mcu_esp32s2.menu.MSCOnBoot.default=Disabled
+sensebox_mcu_esp32s2.menu.MSCOnBoot.default.build.msc_on_boot=0
 
 sensebox_mcu_esp32s2.menu.DFUOnBoot.default=Disabled
 sensebox_mcu_esp32s2.menu.DFUOnBoot.default.build.dfu_on_boot=0
