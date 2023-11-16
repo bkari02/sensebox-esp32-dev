@@ -31,8 +31,8 @@
 // Default I2C QWIIC-Ports
 static const uint8_t SDA = 39;
 static const uint8_t SCL = 40;
-#define PIN_QWICC_SDA      39
-#define PIN_QWICC_SCL      40
+#define PIN_QWIIC_SDA      39
+#define PIN_QWIIC_SCL      40
 
 // Secondary I2C MPU6050
 #define WIRE1_PIN_DEFINED 1 // See Wire.cpp at bool TwoWire::initPins(int sdaPin, int sclPin)
