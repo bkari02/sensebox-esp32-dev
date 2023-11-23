@@ -10,7 +10,7 @@
         },
         "platforms": [
           {
-            "name": "esp32",
+            "name": "esp32-v2.x",
             "architecture": "esp32",
             "version": "2.0.15-alpha3",
             "category": "ESP32",
